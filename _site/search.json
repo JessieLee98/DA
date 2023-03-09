@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "My Resume",
+      "description": "Resume of LI Hongyi",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-03-09T17:34:36+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Porfolio",
+      "description": "Welcome to my porfolio website. \n",
+      "author": [],
+      "contents": "\r\nMy name is LI Hongyi, you can also call me Jessie.\r\nI am a fresh graduate from Singapore Management University (SMU) Master of IT in Business (Analytics Track) Program.\r\nDuring graduation, I start to review my whole year journey of data analytics and I decide to reproduce my previous projects during master program as well as document more case studies that I will work on in my future data analytics journey.\r\nI hope you could be the witness of my growth from a freshman to a qualified data analyst!\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-03-09T17:40:39+08:00"
+    }
+  ],
+  "collections": []
+}

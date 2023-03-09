@@ -1,0 +1,20 @@
+name: "DA"
+title: "Data Analytics Journey"
+description: |
+  Data Analytics Journey
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+  left:
+    - text: "Case Study"
+      menu:
+      - text: "Case Study 1: Share-bike"
+        href: "CaseStudy1"
+    - text: "Data Viz: Tableau"
+      href: "tableauURL"
+
+output: distill::distill_article

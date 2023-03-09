@@ -1,0 +1,13 @@
+---
+title: "My Resume"
+description: |
+ Resume of LI Hongyi
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+knitr::include_graphics("image/resume.jpg")
+```

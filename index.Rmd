@@ -1,0 +1,24 @@
+---
+title: "My Porfolio"
+description: |
+  Welcome to my porfolio website. 
+  
+
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+My name is LI Hongyi, you can also call me Jessie. 
+
+I am a fresh graduate from Singapore Management University (SMU) Master of IT in Business (Analytics Track) Program.
+
+During graduation, I start to review my whole year journey of data analytics and I decide to reproduce my previous projects during master program as well as document more case studies that I will work on in my future data analytics journey. 
+
+I hope you could be the witness of my growth from a freshman to a qualified data analyst!
